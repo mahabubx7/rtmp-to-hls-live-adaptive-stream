@@ -1,0 +1,7 @@
+public/hls.js
+public/playr.js
+.git
+node_modules
+.gitignore
+package-lock.json
+yarn.lock
